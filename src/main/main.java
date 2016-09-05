@@ -12,6 +12,7 @@ import java.util.Date;
 public class main {
     public static void main(String[] args) {
         Transaction inc = new Income(1000, new Timestamp(new Date().getTime()), "fattig");
+        int derp = 1337;
 
     }
 }
